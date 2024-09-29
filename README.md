@@ -14,4 +14,4 @@ Esse é o meu orimeiro Readme
 
 [Link para Documentacao Python](https://docs.python.org/3/)
 
-![Link da Imagem](https://static.corinthians.com.br/img/escudos/SCCP_escudo-150px.png)
+![Link da Imagem](https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/607562ae858433001d855bc4.png)
