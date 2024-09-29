@@ -1,0 +1,7 @@
+print ("Calculo de Bonus do Salario")
+nome        = input("Digite o seu nome: ")
+nome        = nome.capitalize()
+salario     = float(input("Digite o seu salario: "))
+perc_bonus  = float(input("Digite o % do seu bonus: "))
+vl_bonus    = 1000 + (salario * perc_bonus)
+print (f"Olá {nome}, o seu valor de bonus foi de {vl_bonus}")
